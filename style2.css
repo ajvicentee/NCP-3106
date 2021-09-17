@@ -1,0 +1,62 @@
+
+    /* Element */
+    #profile
+    {
+    position: absolute;
+    padding-left: 1.7in;
+    font-size: 80px;
+    margin-top: 4cm;
+    font-family: Bahnschrift SemiBold;
+    color: white;
+    }
+
+    #name
+    {
+    position: absolute;
+    padding-left: 13in;
+    font-size: 85px;
+    margin-top: 4cm;
+    color: white;
+    font-family: Bahnschrift SemiBold; 
+    }
+ 
+    #machine
+    {
+    position: absolute;
+    padding-left: 3.5in;
+    font-size: 50px;
+    margin-top: 10.5cm;
+    font-family: Bahnschrift Light;   
+    }
+    
+    h3{
+        font-family: Bahnschrift Light;
+        font-size: 30px;
+        line-height: 50px;
+        margin-right: 1300px;
+        text-align: justify;
+        color: #ffffff;
+    }
+  
+    /* ID */
+    #myID{
+        color:#ffffff;
+    }
+  
+    #content img {
+    position: absolute;
+    bottom: 300px;
+    left: 750px;
+    height: 400px;
+    width: 400px;
+    border: 10px #670211 solid;
+    border-radius: 50%;
+    }
+    
+    /* Class Selector */
+    .center{
+        text-align: center;
+    }
+
+    
+ 
