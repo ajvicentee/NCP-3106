@@ -1,0 +1,9 @@
+#content img {
+    position: absolute;
+    bottom: 140px;
+    left: 250px;
+    height: 400px;
+    width: 400px;
+    border: 10px solid gray;
+    border-radius: 50%;
+}
